@@ -1,4 +1,4 @@
-package command;
+package Command;
 
 public class CommandDemo {
     public static void main(String[] args) {

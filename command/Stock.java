@@ -1,4 +1,4 @@
-package command;
+package Command;
 
 public class Stock {
     private String name = "NVIDIA";

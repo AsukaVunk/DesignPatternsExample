@@ -1,4 +1,4 @@
-package command;
+package Command;
 
 public class BuyStock implements Order{
     private Stock stock;
